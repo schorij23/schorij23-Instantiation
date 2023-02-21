@@ -4,6 +4,7 @@ public class Application {
      * No changes you make here affect the test case results. You must still run & pass the test cases.
      * All implementation code should be written in the Lab class.
      *
+     * hdg
      * The Lab.instantiateANewObject method should return any newly-instantiated object.
      */
     public static void main(String[] args) {
